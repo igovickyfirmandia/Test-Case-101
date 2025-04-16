@@ -60,10 +60,10 @@ This table below is an example:
 | TC_01  | Authentication | User Valid Login    | User on Login Page | *Step 1-5      | Valid Credential   | User successfully login | User can login successfully | Pass       | High         | -                       |
 | TC_02  | Authentication | User Invalid Login  | User on Login Page | *Step 1-4      | Invalid Credential | User can't login        | User can't login            | Failed     | High         | *your note/evidence/etc |
 
-And this is an example of Report Test Case: [Report]()
+And this is an example of Report Test Case: [Report](https://docs.google.com/spreadsheets/d/1VfWjloVdq2NGnm43ZZ90sy3CVOsuQwR2_Zg9TtWaIk8/edit?usp=sharing)
 
 ## Test Case Example
-Here is an example of Test Case I've created: [Test Case Example]()
+Here is an example of Test Case I've created: [Test Case Example](https://docs.google.com/document/d/1ZYhTe3dEnN_julvlKBc3Lyjh0lpSRCRvITTz7mJr5wg/edit?usp=sharing)
 
 
 
